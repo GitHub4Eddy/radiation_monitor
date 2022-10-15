@@ -38,3 +38,6 @@ icon_green =   User defined icon number for values less than 0.3 μSv/h
 icon_yellow =  User defined icon number for values between 0.3 and 0.8 μSv/h 
 icon_red =     User defined icon number for values greater than 0.8 μSv/h
 icon_error =   User defined icon number in case of an error gettng the data
+
+Version 0.1 (15th October 2022)
+- Initial version
