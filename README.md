@@ -16,10 +16,10 @@ Green:  Radiation up to 0.3 μSv/h
 Yellow: Radiation between 0.3 and 0.8 μSv/h 
 Red:    Radiation above 0.8 μSv
  
-1.14 µSv.h - Shelter population
-5.7 µSv.h - Evacuation of population
-11.4 µSv.h - Issue Iodine tablets
-0.114 µSv.h - Max daily dose == 1 mSv.year
+1.14 µSv/h - Shelter population
+5.7 µSv/h - Evacuation of population
+11.4 µSv/h - Issue Iodine tablets
+0.114 µSv/h - Max daily dose == 1 mSv/year
  
 image.thumb.png.74f8f948241c45957bf146ae22db11fe.png
  
