@@ -69,11 +69,12 @@ Variables (mandatory and created automatically):
 - icon_red = User defined icon number for values greater than 0.8 μSv/h
 - icon_error = User defined icon number in case of an error gettng the data
 
+Version 1.2 (11th January 2023)
+- Added support for Croatian language thanks to @Sankotronic
 
 Version 1.1 (9th January 2023)
 - Changed handling of negative values for dots and icons: if tonumber(num) >= 0 and tonumber(num) <= 0.3 then 
 - Added a better translation for French (thanks to @fredoki)
-
 
 Version 1.0 (5th November 2022)
 - Added the nearest five reactors to the labels with distance and bearing
