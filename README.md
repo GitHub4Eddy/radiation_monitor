@@ -69,6 +69,9 @@ Variables (mandatory and created automatically):
 - icon_red = User defined icon number for values greater than 0.8 μSv/h
 - icon_error = User defined icon number in case of an error gettng the data
 
+Version 1.3 (17th July 2023)
+- Added extra check for the right response from Geocity (in case of response {"error":"Unable to geocode"})
+
 Version 1.2 (11th January 2023)
 - Added support for Croatian language thanks to @Sankotronic
 
