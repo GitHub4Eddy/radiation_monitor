@@ -69,6 +69,11 @@ Variables (mandatory and created automatically):
 - icon_red = User defined icon number for values greater than 0.8 μSv/h
 - icon_error = User defined icon number in case of an error gettng the data
 
+
+Version 1.4 (6th February 2024)
+- Added extra check for an empty response in the address from Geocity (thanks to @Sankotronic from the Fibaro forum)
+
+
 Version 1.3 (17th July 2023)
 - Added extra check for the right response from Geocity (in case of response {"error":"Unable to geocode"})
 
