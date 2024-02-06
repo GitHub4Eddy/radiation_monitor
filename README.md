@@ -60,7 +60,7 @@ Links:
 Variables (mandatory and created automatically): 
 - latitude = Latitude of your location (Default is the latitude of your HC3)
 - longitude = Longitude of your location (Default is the longitude of your HC3)
-- language = Preferred language (default = en) (supported languages are French (fr), Polish (pl) and Dutch (nl))
+- language = Preferred language (default = en) (supported languages are French (fr), Polish (pl), Crostian (hr) and Dutch (nl))
 - interval = Interval in seconds to get the data from the Radioactive@Home website
 - debugLevel = Number (1=some, 2=few, 3=most, 4=all) (default = 1, debugLevel 4 is only recommended for solving difficult issues)
 - icon_refresh = User defined icon number for refresh status
